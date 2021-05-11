@@ -1,3 +1,9 @@
 
+<<<<<<< HEAD
 Modified in	
 Modified in New
+=======
+Modified in Master
+Modified in
+>>>>>>> new
+
